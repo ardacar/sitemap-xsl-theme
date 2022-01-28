@@ -19,6 +19,3 @@ To change the theme of the sitemap, add the following code to the line added in 
 # Note
 
 You can make changes on the theme by changing the CSS codes.
-
-## Licence
-[MIT Licence][mit-url]
